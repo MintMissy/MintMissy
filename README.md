@@ -1,6 +1,6 @@
-### 👋 Howdy my dear friend. David 'MintMissy' here.
-🛠 Member of 2DevsStudio team
-📫 Contact by DM or ✉️ dawidkostka480@gmail.com
+# 👋 Howdy my dear friend. David 'MintMissy' here.
+- 🛠 Member of 2DevsStudio team
+- 📫 Contact by DM or ✉️ dawidkostka480@gmail.com
 
 # My Superpowers
 - 💻 Programming
