@@ -1,8 +1,8 @@
 # 👋 Howdy my dear friend. David 'MintMissy' here.
 - 🛠 Member of 2DevsStudio team
-- 📫 Contact by DM or ✉️ dawidkostka480@gmail.com
+- 📫 Contact by dawidkostka480@gmail.com or DM
 
-# My Superpowers
+# 🦸 My Superpowers
 - 💻 Programming
 - 📐 Design
 - 🖌 Graphics
@@ -12,8 +12,8 @@
 - Learn web development by the 1st half of 2022
 - Master HTML, CSS, JS and React
 
-# FAQ
-- Favorite languages: 🐍Python & ☀️Javascript
+# 🧷 FAQ
+- Favorite languages: 🐍Python & Javascript
 - Graphic tools: Gimp & Inkscape
 
 <!--
