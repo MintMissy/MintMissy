@@ -1,14 +1,17 @@
 # 👋 Howdy my dear friend. David 'MintMissy' here.
-- 🛠 Member of 2DevsStudio team
-- 📫 Contact by dawidkostka480@gmail.com or DM
+- 🌟 A 19 year old ambitious guy
+- 🛠 A member of 2DevsStudio team
+- 📫 You can hook me by DM or by my:
+  - mail: mintmissycontact@gmail.com
+  - discord: MintMissy#5474
 
 # 🦸 My Superpowers
-- 💻 Programming
-- 📐 Design
-- 🖌 Graphics
+- 💻 Programming -> mainly web development
+- 📐 Design -> from logos to advanced UI
+- 🖌 Graphics -> vector and raster
 
 # 🚀 My Goals
-- Finish advanced todo app build with react 
+- Write advanced todo app that will be build with react 
 - Learn web development by the 1st half of 2022
 - Master HTML, CSS, JS and React
 
