@@ -1,23 +1,23 @@
-# 👋 Howdy my dear friend. David 'MintMissy' here.
-- 🌟 A 19 year old ambitious guy
-- 🛠 A member of 2DevsStudio team
-- 📫 You can hook me by DM or by my:
-  - mail: mintmissycontact@gmail.com
-  - discord: MintMissy#5474
+# 👋 Howdy. I'm David 'MintMissy'.
+- I'm 19 years old,
+- Member of 2DevsStudio team
 
 # 🦸 My Superpowers
-- 💻 Programming -> mainly web development
-- 📐 Design -> from logos to advanced UI
-- 🖌 Graphics -> vector and raster
+- Programming -> mainly web development
+- Design -> I can design everyhing you wish
+- Graphics -> vector and raster
 
 # 🚀 My Goals
-- Write advanced todo app that will be build with react 
-- Learn web development by the 1st half of 2022
-- Master HTML, CSS, JS and React
+- Never stop learning
+- Master angular
+
+# 📫 You can contact with me by:
+- Sending e-mail: mintmissycontact@gmail.com
+- DM me on discord: MintMissy#5474
 
 # 🧷 FAQ
-- Favorite languages: 🐍Python & Javascript
-- Graphic tools: Gimp & Inkscape
+- Favorite lang: JS & TS & 🐍Python
+- Used software: VS Code; Figma; GIMP and much more!
 
 <!--
 **MintMissy/MintMissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
