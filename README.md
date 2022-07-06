@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=radical)](https://github.com/IM-IgniteDEV)<br/>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&langs_count=8&theme=radical&exclude_repo=SZCZUR-GRA-GIMPER)](https://github.com/IM-IgniteDEV/repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MintMissy&show_icons=true&theme=radical)](https://github.com/MintMissy)<br/>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MintMissy&langs_count=8&theme=radical](https://github.com/MintMissy/repositories)
