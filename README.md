@@ -81,5 +81,4 @@
 	<span>MintMissy#5474</span>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MintMissy&cound_private=true&show_icons=true&theme=tokyonight" alt="mintmissy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintmissy&theme=tokyonight" alt="mintmissy" /></p>
