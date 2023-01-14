@@ -54,7 +54,7 @@
 		<img src="https://static.spigotmc.org/img/spigot-og.png" alt="Spigot" width="40" height="40"/>
 	</a>
 	<a href="https://dev.bukkit.org/" target="_blank" rel="noreferrer">
-		<img src="https://image.pngaaa.com/21/6509021-middle.png" alt="Bukkit" width="40" height="40"/>
+		<img src="./image/bukkit.png" alt="Bukkit" width="40" height="40"/>
 	</a>
 </p>
 
