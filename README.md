@@ -74,7 +74,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="30" width="30" />
-	<span>mintmissycontact@gmail.com</span>
+	<span>mintmissycontact@gmail.com or dawidkostka480@gmail.com</span>
 </p>
 <p align="left">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MintMissy#5474" height="30" width="30" />
